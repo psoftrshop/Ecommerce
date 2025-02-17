@@ -13,7 +13,7 @@ import org.antlr.v4.runtime.misc.NotNull;
 @EqualsAndHashCode
 public class Category {
 
-    @jakarta.persistence.Id
+    @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
     private Long Id;
 

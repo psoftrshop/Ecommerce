@@ -1,5 +1,4 @@
-package com.jaug.model;
-
+package com.psoft.emc.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
@@ -13,23 +12,10 @@ import lombok.*;
 @AllArgsConstructor
 @NoArgsConstructor
 @EqualsAndHashCode
-public class Address {
+public class Seller {
 
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
     private Long Id;
 
-    private String name;
-
-    private String locality;
-
-    private String address;
-
-    private String city;
-
-    private String state;
-
-    private String pincode;
-
-    private String mobileNumber;
 }

@@ -1,4 +1,4 @@
-package com.jaug;
+package com.psoft.emc;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

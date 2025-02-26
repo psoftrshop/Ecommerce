@@ -1,4 +1,4 @@
-package com.jaug.response;
+package com.psoft.emc.response;
 
 
 import lombok.Data;

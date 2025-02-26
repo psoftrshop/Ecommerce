@@ -1,4 +1,4 @@
-package com.jaug;
+package com.psoft.emc;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

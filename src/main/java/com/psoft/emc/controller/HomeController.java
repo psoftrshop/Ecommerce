@@ -1,7 +1,7 @@
-package com.jaug.controller;
+package com.psoft.emc.controller;
 
 
-import com.jaug.response.ApiResponse;
+import com.psoft.emc.response.ApiResponse;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 

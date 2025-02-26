@@ -1,4 +1,4 @@
-package com.jaug.domain;
+package com.psoft.emc.domain;
 
 public enum USER_ROLE {
 

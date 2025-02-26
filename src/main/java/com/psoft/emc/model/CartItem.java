@@ -1,4 +1,4 @@
-package com.jaug.model;
+package com.psoft.emc.model;
 
 
 import com.fasterxml.jackson.annotation.JsonIgnore;

@@ -1,3 +1,4 @@
+/*
 package com.psoft.emc.model;
 
 import jakarta.persistence.*;
@@ -34,3 +35,4 @@ public class Coupan {
     @ManyToMany(mappedBy = "usedCoupans")
     private Set<User> usedCoupans = new HashSet<>();
 }
+*/

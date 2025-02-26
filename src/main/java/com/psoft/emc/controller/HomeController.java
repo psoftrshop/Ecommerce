@@ -1,3 +1,4 @@
+/*
 package com.psoft.emc.controller;
 
 
@@ -15,3 +16,4 @@ public class HomeController {
         return apiResponse;
     }
 }
+*/

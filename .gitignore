@@ -1,2 +1,4 @@
 .idea/vcs.xml
 /.idea
+/target/classes/
+/target/classes/com/psoft/emc/response/ApiResponse.class

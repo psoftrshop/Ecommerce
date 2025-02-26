@@ -1,3 +1,4 @@
+/*
 package com.psoft.emc.model;
 
 
@@ -29,3 +30,4 @@ public class Category {
     private Integer level;
 
 }
+*/

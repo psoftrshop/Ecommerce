@@ -1,3 +1,4 @@
+/*
 package com.psoft.emc.model;
 
 import jakarta.persistence.Entity;
@@ -19,3 +20,4 @@ public class Seller {
     private Long Id;
 
 }
+*/

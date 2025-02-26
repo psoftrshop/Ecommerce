@@ -11,7 +11,7 @@ public class HomeController {
     @GetMapping
     private ApiResponse HomeControllerHandler() {
         ApiResponse apiResponse = new ApiResponse();
-        apiResponse.setMessage("Welcome to the ECommerce Multi Vendor");
+        apiResponse.setMessage("signup");
         return apiResponse;
     }
 }

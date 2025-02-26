@@ -1,3 +1,4 @@
+/*
 package com.psoft.emc.model;
 
 
@@ -33,3 +34,4 @@ public class Address {
 
     private String mobileNumber;
 }
+*/

@@ -1,3 +1,4 @@
+/*
 package com.psoft.emc.model;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
@@ -44,3 +45,4 @@ private LocalDateTime createdAt = LocalDateTime.now();
 
 
 }
+*/
